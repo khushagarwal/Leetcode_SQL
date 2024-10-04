@@ -4,4 +4,4 @@ from products)
 
 select *
 from cte
-where product_id is not null;
+where product_id is not null
